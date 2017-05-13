@@ -18,6 +18,7 @@ public class HelloWorld_git {
     {
         // TODO code application logic here
         System.out.println("Test2");
+        System.out.println("Hallo wie gehts");
     }
     
 }
